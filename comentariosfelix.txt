@@ -1,0 +1,2 @@
+Insisto en que es importante ajustar el escalador a los datos de entrenamiento y posteriormente transformarlos y los de test también.
+Además recuerda lo que comenté anteriormente acerca del LabelEncoder, debes de ver como hacer para que después "recuerde" la codificación de todas las variables.
